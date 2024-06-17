@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30f3771623bfde4608e4887efc3b6641, type: 3}
+  m_Name: Introduction
+  m_EditorClassIdentifier: 
+  _pages:
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 91464c6a682a24b96b1dcc8616265bad, type: 3}
+  - videoName: Introduction/PackageManager UI Debugging
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: Introduction/DragonCrashers Demo Looped
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 047205ce63ed74dc6b6f22c76fd39cee, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: Unity UI System Overview
+    image: {fileID: 2800000, guid: 047205ce63ed74dc6b6f22c76fd39cee, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 7918a00090e944d55a282bdf585960a8, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 0d97955283b63498c9d1e71b1fbb5207, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 4aed15fb2f7604aceb778b1342d22714, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 06523987027844e41893f9553aa072b4, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 19e26197b8f914b399d34f1b5c06668f, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 9e6138d727567468fab348afec1fb423, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 9b87a7c161b674220881d08f1be4298f, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 01c55289fff4b45d998606d73d5a246a, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: b109b2590177f4b5c8a664da45add8f8, type: 3}
