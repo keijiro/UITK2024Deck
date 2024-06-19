@@ -18,16 +18,6 @@ MonoBehaviour:
     loop: 0
     text: 
     image: {fileID: 2800000, guid: 91464c6a682a24b96b1dcc8616265bad, type: 3}
-  - videoName: Introduction/PackageManager UI Debugging
-    autoPlay: 0
-    loop: 0
-    text: 
-    image: {fileID: 0}
-  - videoName: Introduction/DragonCrashers Demo Looped
-    autoPlay: 1
-    loop: 1
-    text: 
-    image: {fileID: 0}
   - videoName: 
     autoPlay: 0
     loop: 0
@@ -36,8 +26,8 @@ MonoBehaviour:
   - videoName: 
     autoPlay: 0
     loop: 0
-    text: Unity UI System Overview
-    image: {fileID: 2800000, guid: 047205ce63ed74dc6b6f22c76fd39cee, type: 3}
+    text: 
+    image: {fileID: 2800000, guid: 438c4de976e4244ae98db30cfe81ccd6, type: 3}
   - videoName: 
     autoPlay: 0
     loop: 0
@@ -83,3 +73,43 @@ MonoBehaviour:
     loop: 0
     text: 
     image: {fileID: 2800000, guid: b109b2590177f4b5c8a664da45add8f8, type: 3}
+  - videoName: Introduction/PackageManager UI Debugging
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: Introduction/DragonCrashers Demo Looped
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 816c0884e58e248839d2a68c2a272837, type: 3}
+  - videoName: Introduction/DragonCrashers Title Looped
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: Introduction/DragonCrashers Screens Looped
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: Introduction/DragonCrashers Responsive Looped
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: Introduction/DragonCrashers Themes Looped
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: Introduction/DragonCrashers Demo Looped
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
