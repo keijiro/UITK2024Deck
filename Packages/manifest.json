@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "jp.keijiro.scrubber": "2.0.0"
+    "jp.keijiro.scrubber": "3.0.0"
   },
   "scopedRegistries": [
     {
