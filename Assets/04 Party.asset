@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30f3771623bfde4608e4887efc3b6641, type: 3}
+  m_Name: 04 Party
+  m_EditorClassIdentifier: 
+  _pages:
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 047205ce63ed74dc6b6f22c76fd39cee, type: 3}
+  - videoName: Party/Data Binding Concept
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: Party/Data Binding Demo
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: d0001a0eaa0074590b1fd7d7b74114c1, type: 3}
+  - videoName: Party/Profile Creation
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: d99927bc48a4c4decb0ea6a49add2de0, type: 3}
+  - videoName: Party/Party Creation
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 0cf35f42c2ff94b3cae2653193f39894, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: d0001a0eaa0074590b1fd7d7b74114c1, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 57c0b29646d024330bfd65fe8ff18a59, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: d0001a0eaa0074590b1fd7d7b74114c1, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 15911914787614e74867b84800476650, type: 3}
+  - videoName: Party/Figma Converters
+    autoPlay: 1
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: Party/Binding Construction
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: Party/Party View Design
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: d429d64952b914291b0617ccfbfe338d, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: aab5741ca426e4abc81a825b685097c4, type: 3}
+  - videoName: Party/Party Test Run
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: Party/Party Refined Style
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: Party/Party Test On iPhone
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}

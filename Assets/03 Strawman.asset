@@ -13,22 +13,82 @@ MonoBehaviour:
   m_Name: 03 Strawman
   m_EditorClassIdentifier: 
   _pages:
-  - videoName: Strawman/Strawman Demo
+  - videoName: Strawman/Demo
     autoPlay: 0
     loop: 0
     text: 
     image: {fileID: 0}
-  - videoName: Strawman/Strawman Panel Settings
+  - videoName: Strawman/Panel Settings
     autoPlay: 0
     loop: 0
     text: 
     image: {fileID: 0}
-  - videoName: Strawman/Strawman Plain Buttons
+  - videoName: Strawman/Plain Buttons
     autoPlay: 0
     loop: 0
     text: 
     image: {fileID: 0}
-  - videoName: Strawman/Strawman Code Callbacks
+  - videoName: Strawman/Code Callbacks
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: Strawman/Buttons Test
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: Strawman/First Summary
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 929b95f6d284044c5bea46e32f6e94fc, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 0a322d1f4d70c4379a757b6a07f61b17, type: 3}
+  - videoName: Strawman/YouTube Tutorials
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: Strawman/Buttons Layout
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: Strawman/Buttons Style Sheet
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 047205ce63ed74dc6b6f22c76fd39cee, type: 3}
+  - videoName: Strawman/Buttons Hover Demo
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: Strawman/Transition Animation
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 0}
+  - videoName: Strawman/Buttons Hover Demo
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: Strawman/Assets Summary
     autoPlay: 0
     loop: 0
     text: 
