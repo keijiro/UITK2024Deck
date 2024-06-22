@@ -180,7 +180,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6736302909856643033, guid: ad43325bcbfb69960b79648da73c8a2a, type: 3}
       propertyPath: <Decks>k__BackingField.Array.size
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6736302909856643033, guid: ad43325bcbfb69960b79648da73c8a2a, type: 3}
       propertyPath: '<Decks>k__BackingField.Array.data[0]'
@@ -198,6 +198,10 @@ PrefabInstance:
       propertyPath: '<Decks>k__BackingField.Array.data[3]'
       value: 
       objectReference: {fileID: 11400000, guid: ff59df46ced1a49a5ba1dd540201706a, type: 2}
+    - target: {fileID: 6736302909856643033, guid: ad43325bcbfb69960b79648da73c8a2a, type: 3}
+      propertyPath: '<Decks>k__BackingField.Array.data[4]'
+      value: 
+      objectReference: {fileID: 11400000, guid: f318d8c2784a0456eb28ade2b51bf899, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

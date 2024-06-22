@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30f3771623bfde4608e4887efc3b6641, type: 3}
+  m_Name: 05 Summary
+  m_EditorClassIdentifier: 
+  _pages:
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 7f5fe2acc99d24360bb23cbe49b04d3b, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 4abc0d9d9c6d5446ab91f08cbc98c7c4, type: 3}
+  - videoName: Summary/World Space UI
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 4abc0d9d9c6d5446ab91f08cbc98c7c4, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 5c5a06e6d1431443ba6c094b5664048d, type: 3}
+  - videoName: Summary/Custom Shader
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: Summary/Custom Control
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 5c5a06e6d1431443ba6c094b5664048d, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 2901636df115340b7b528a8728922357, type: 3}
+  - videoName: Summary/Animation Clip
+    autoPlay: 1
+    loop: 1
+    text: 
+    image: {fileID: 0}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 2901636df115340b7b528a8728922357, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: dbbc33cf930ac48b28172eb75f36fb91, type: 3}
