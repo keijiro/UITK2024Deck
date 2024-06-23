@@ -13,11 +13,6 @@ MonoBehaviour:
   m_Name: 04 Party
   m_EditorClassIdentifier: 
   _pages:
-  - videoName: 
-    autoPlay: 0
-    loop: 0
-    text: 
-    image: {fileID: 2800000, guid: 047205ce63ed74dc6b6f22c76fd39cee, type: 3}
   - videoName: Party/Data Binding Concept
     autoPlay: 0
     loop: 0

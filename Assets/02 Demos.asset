@@ -13,22 +13,22 @@ MonoBehaviour:
   m_Name: 02 Demos
   m_EditorClassIdentifier: 
   _pages:
-  - videoName: Introduction/DragonCrashers Title Looped
+  - videoName: Demos/DragonCrashers Title Looped
     autoPlay: 1
     loop: 1
     text: 
     image: {fileID: 0}
-  - videoName: Introduction/DragonCrashers Screens Looped
+  - videoName: Demos/DragonCrashers Screens Looped
     autoPlay: 1
     loop: 1
     text: 
     image: {fileID: 0}
-  - videoName: Introduction/DragonCrashers Responsive Looped
+  - videoName: Demos/DragonCrashers Responsive Looped
     autoPlay: 1
     loop: 1
     text: 
     image: {fileID: 0}
-  - videoName: Introduction/DragonCrashers Themes Looped
+  - videoName: Demos/DragonCrashers Themes Looped
     autoPlay: 1
     loop: 1
     text: 
@@ -38,12 +38,12 @@ MonoBehaviour:
     loop: 1
     text: 
     image: {fileID: 0}
-  - videoName: Introduction/QuizU Game Sequence
+  - videoName: Demos/QuizU Game Sequence
     autoPlay: 1
     loop: 0
     text: 
     image: {fileID: 0}
-  - videoName: Introduction/QuizU Demo Sequence
+  - videoName: Demos/QuizU Demo Sequence
     autoPlay: 1
     loop: 0
     text: 
