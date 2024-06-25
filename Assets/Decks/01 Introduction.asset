@@ -22,11 +22,6 @@ MonoBehaviour:
     autoPlay: 0
     loop: 0
     text: 
-    image: {fileID: 2800000, guid: 047205ce63ed74dc6b6f22c76fd39cee, type: 3}
-  - videoName: 
-    autoPlay: 0
-    loop: 0
-    text: 
     image: {fileID: 2800000, guid: 438c4de976e4244ae98db30cfe81ccd6, type: 3}
   - videoName: 
     autoPlay: 0
