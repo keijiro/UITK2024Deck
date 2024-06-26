@@ -62,16 +62,6 @@ MonoBehaviour:
     autoPlay: 0
     loop: 0
     text: 
-    image: {fileID: 2800000, guid: 57c0b29646d024330bfd65fe8ff18a59, type: 3}
-  - videoName: 
-    autoPlay: 0
-    loop: 0
-    text: 
-    image: {fileID: 2800000, guid: d0001a0eaa0074590b1fd7d7b74114c1, type: 3}
-  - videoName: 
-    autoPlay: 0
-    loop: 0
-    text: 
     image: {fileID: 2800000, guid: 15911914787614e74867b84800476650, type: 3}
   - videoName: Party/Figma Converters
     autoPlay: 1

@@ -38,16 +38,6 @@ MonoBehaviour:
     loop: 0
     text: 
     image: {fileID: 0}
-  - videoName: Strawman/First Summary
-    autoPlay: 0
-    loop: 0
-    text: 
-    image: {fileID: 0}
-  - videoName: 
-    autoPlay: 0
-    loop: 0
-    text: 
-    image: {fileID: 2800000, guid: 929b95f6d284044c5bea46e32f6e94fc, type: 3}
   - videoName: 
     autoPlay: 0
     loop: 0
@@ -81,10 +71,5 @@ MonoBehaviour:
   - videoName: Strawman/Buttons Hover Demo
     autoPlay: 1
     loop: 1
-    text: 
-    image: {fileID: 0}
-  - videoName: Strawman/Assets Summary
-    autoPlay: 0
-    loop: 0
     text: 
     image: {fileID: 0}

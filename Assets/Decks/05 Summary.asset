@@ -43,11 +43,6 @@ MonoBehaviour:
     loop: 1
     text: 
     image: {fileID: 0}
-  - videoName: Summary/Custom Control
-    autoPlay: 1
-    loop: 1
-    text: 
-    image: {fileID: 0}
   - videoName: 
     autoPlay: 0
     loop: 0
@@ -68,6 +63,11 @@ MonoBehaviour:
     loop: 0
     text: 
     image: {fileID: 2800000, guid: 2901636df115340b7b528a8728922357, type: 3}
+  - videoName: 
+    autoPlay: 0
+    loop: 0
+    text: 
+    image: {fileID: 2800000, guid: 3afac5a433fa244f6aa9e838b1ebc849, type: 3}
   - videoName: 
     autoPlay: 0
     loop: 0
