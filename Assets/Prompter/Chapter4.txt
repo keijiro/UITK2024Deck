@@ -6,7 +6,7 @@
 これはデータバインディングを解説するために作った簡単なサンプルプロジェクトで、架空のゲームのキャラクターリストを実装したものです。
 40 人分のデータが用意されており、スクロールして閲覧できます。
 これらのキャラクターのデータは、この Profile という ScriptableObject に定義されています。
-displayName、life、strength、portrait という４つのフィールドを持つクラスですね。
+displayName, life, strength, portrait という４つのフィールドを持つクラスですね。
 ScriptableObject を使っているので、Unity Editor 上でアセットを作成し、Inspector から値を設定することができます。
 このようにして 40 人分のデータを用意しました。
 これとは別に、Party と言う名前の ScriptableObject も用意しました。
