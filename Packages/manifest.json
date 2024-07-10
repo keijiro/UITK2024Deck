@@ -1,8 +1,7 @@
 {
   "dependencies": {
     "jp.keijiro.klak.ndi": "2.1.2",
-    "jp.keijiro.scrubber": "3.1.0",
-    "jp.keijiro.tmp-essentials": "1.0.0"
+    "jp.keijiro.scrubber": "4.0.0"
   },
   "scopedRegistries": [
     {

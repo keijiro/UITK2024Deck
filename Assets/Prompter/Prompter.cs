@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using TMPro;
+using UnityEngine.UIElements;
 
 namespace PromptLink {
 
@@ -11,12 +11,6 @@ public sealed class Prompter : MonoBehaviour
     #region Project assets
 
     [SerializeField] TextAsset[] _sources = null;
-
-    #endregion
-
-    #region Scene objects
-
-    [field:SerializeField] public TMP_Text _targetUI { get; set; } = null;
 
     #endregion
 
@@ -40,7 +34,8 @@ public sealed class Prompter : MonoBehaviour
     int ChapterLineCount => _lines[_position.chapter].Length;
 
     void ReadCurrentLine()
-      => _targetUI.text = _lines[_position.chapter][_position.line];
+      => GetComponent<UIDocument>().rootVisualElement.Q<Label>("text").text
+           = _lines[_position.chapter][_position.line];
 
     void StepBackward()
     {
