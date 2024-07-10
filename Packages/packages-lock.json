@@ -41,6 +41,17 @@
       },
       "url": "https://registry.npmjs.com"
     },
+    "jp.keijiro.prompt-link": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.inputsystem": "1.8.2",
+        "com.unity.modules.uielements": "1.0.0",
+        "jp.keijiro.klak.ndi": "2.1.2"
+      },
+      "url": "https://registry.npmjs.com"
+    },
     "jp.keijiro.scrubber": {
       "version": "4.0.0",
       "depth": 0,
