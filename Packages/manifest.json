@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "jp.keijiro.klak.ndi": "2.1.2",
-    "jp.keijiro.scrubber": "4.0.0",
-    "jp.keijiro.prompt-link": "1.0.0"
+    "jp.keijiro.scrubber": "4.0.1",
+    "jp.keijiro.prompt-link": "1.0.1"
   },
   "scopedRegistries": [
     {
