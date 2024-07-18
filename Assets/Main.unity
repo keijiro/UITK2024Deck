@@ -259,6 +259,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6704917372609715702, guid: ad43325bcbfb69960b79648da73c8a2a, type: 3}
+      propertyPath: <StrokeSize>k__BackingField
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 6736302909856643033, guid: ad43325bcbfb69960b79648da73c8a2a, type: 3}
       propertyPath: <JogSense>k__BackingField
       value: 10
