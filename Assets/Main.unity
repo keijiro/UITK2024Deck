@@ -215,6 +215,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 639207466028383944, guid: ad43325bcbfb69960b79648da73c8a2a, type: 3}
+      propertyPath: sourceAsset
+      value: 
+      objectReference: {fileID: 9197481963319205126, guid: 82e5a10644e8d4f37b9c44a39ca6b739, type: 3}
     - target: {fileID: 3283169546998328265, guid: ad43325bcbfb69960b79648da73c8a2a, type: 3}
       propertyPath: m_Name
       value: Presenter
